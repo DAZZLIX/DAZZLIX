@@ -118,12 +118,3 @@ Tu perfil tendrá 💜:
 - 😸 **Gatito ASCII** gracioso
 
 > ⚠️ **Nota:** Los bloques de código dentro del README, borra los espacios que puse entre ` `` ` ` `` ` ` `` ` — los agregué para que se vea el texto aquí, en el README van juntos: ` ``` `
-### 💬 Frase que me motiva
-
-> *"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."* 🌳
-
----
-
-<img src="https://komarev.com/ghpvc/?username=DAZZLIX&color=00d4ff&style=flat-square&label=Visitas+al+perfil" />
-
-</div>
