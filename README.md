@@ -3,6 +3,8 @@
 <!-- OLAS SUPERIORES -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0030,50:7b2fff,100:e879f9&height=180&section=header&text=DAZZLIX&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Developer%20in%20Progress%20🐱💜&descAlignY=75&descSize=16" width="100%"/>
 
+<!-- GATO ANIMADO CON VIBRAS MORADAS -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=1000&color=B14FFF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+DAZZLIX+%F0%9F%91%8B;Aprendiendo+a+programar+%F0%9F%9A%80;Web+Dev+%2B+Bases+de+Datos+%F0%9F%92%BE;Amante+de+los+gatitos+%F0%9F%90%B1;Fan+de+la+IA+%F0%9F%A4%96;Futuro+Full+Stack+Dev+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <!-- GATO ASCII MORADO CON VIBRAS -->
 ```
@@ -33,6 +35,15 @@ const DAZZLIX = {
 
 ---
 
+<!-- TECNOLOGÍAS -->
+### 🛠️ Tecnologías que domino
+
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode,python&theme=dark&perline=8" />
+
+---
+
+<!-- IA Y GATITOS - SECCIÓN ESPECIAL -->
+### 🤖 IA que uso & 🐱 Gatito del día
 
 <table>
 <tr>
@@ -137,3 +148,4 @@ const DAZZLIX = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:7b2fff,100:1a0030&height=120&section=footer" width="100%"/>
 
 </div>
+
